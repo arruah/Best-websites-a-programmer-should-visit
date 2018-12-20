@@ -7,48 +7,48 @@
 [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
 
 # Best-websites-a-programmer-should-visit
-Some useful websites for programmers.
+Сборник полезных ресурсов для программистов.
 
-When learning CS, there are some useful sites you must know to get always informed in order to do your technologies even better and learn new things. Here is a non exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
+Для тех кто изучает информатику есть несколько полезных сайтов, которые вы должны знать, чтобы всегда быть в курсе, чтобы еще лучше совершенствовать свои умения и узнавать что-то новое. Ниже вам представлен неполный список некоторых сайтов, которые вы должны посетить. Этот список будет мной обновляться, но вы также можете внести свой вклад, добавив те ресурсы котороые вы считаете нужным добавить в этот список :wink:
 
-**Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
+**Note** : [Версия на китайском языке](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
-<h3>Index</h3>
+<h3>Оглавление</h3>
 <ul>
-<li><a href="#when-you-get-stuck">When you get stuck</a></li>
-<li><a href="#news">News</a></li>
-<li><a href="#magazines">Magazines</a></li>
-<li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
-<li><a href="#cryptocurrency">Cryptocurrency</a></li>
-<li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
-<li><a href="#general-coding-advice">General Coding advice</a></li>
-<li><a href="#coding-style">Coding Style</a></li>
-<li><a href="#general-tools">General Tools</a></li>
-<li><a href="#interview-preparation">Interview Preparation</a></li>
-<li><a href="#documentaries">Documentaries</a></li>
+<li><a href="#when-you-get-stuck">Если вы застряли</a></li>
+<li><a href="#news">Новости</a></li>
+<li><a href="#magazines">Журналы</a></li>
+<li><a href="#coding-practice-for-beginners">Практические задания для начинающих</a></li>
+<li><a href="#cryptocurrency">Криптовалюты</a></li>
+<li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">Для тех кто хочет начать маленький проект, но в голову ничего не приходит</a></li>
+<li><a href="#general-coding-advice">Обшие советы по программированию</a></li>
+<li><a href="#coding-style">Стили в программировании</a></li>
+<li><a href="#general-tools">Общие инструменты</a></li>
+<li><a href="#interview-preparation">Подоготовка к собеседованию</a></li>
+<li><a href="#documentaries">Документация</a></li>
 <li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
-<li><a href="#sites-related-to-your-preferred-programming-language-for-me-java">Sites related to your preferred programming language (For me Java)</a></li>
-<li><a href="#learn-ai">Learn AI</a></li>
-<li><a href="#seminar--research-writing--talks-etc">Seminar , research writing , talks etc</a></li>
-<li><a href="#everything-in-one-place">Everything in one place</a></li>
-<li><a href="#youtube-channels">YouTube Channels</a></li>
-<li><a href="#good-articles">Good Articles</a></li>
-<li><a href="#bash-and-shell-scripting">Bash and Shell scripting</a></li>
-<li><a href="#podcasts">Podcasts</a></li>
-<li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
+<li><a href="#sites-related-to-your-preferred-programming-language-for-me-java">Сайты для обучения программированию конкретному языку программирования (Java в этом случае)</a></li>
+<li><a href="#learn-ai">Изучение Искусственного Интелекта</a></li>
+<li><a href="#seminar--research-writing--talks-etc">Семинары, научные статьи, обсуждение и т.д.</a></li>
+<li><a href="#everything-in-one-place">Всё в одном месте</a></li>
+<li><a href="#youtube-channels">YouTube каналы</a></li>
+<li><a href="#good-articles">Статьи на которые стоит обратить внимание</a></li>
+<li><a href="#bash-and-shell-scripting">Bash скрипты</a></li>
+<li><a href="#podcasts">Подкасты</a></li>
+<li><a href="#building-a-simple-compilerinterpreter">Написание простого компилятора/интерпретатора</a></li>
 <li><a href="#watch-others-code">Watch others code</a></li>
 <li><a href="#tutorials">Tutorials</a></li>
-<li><a href="#what-should-a-programmer-know">What should a programmer know</a></li>
-<li><a href="#competitive-programming">Competitive programming</a></li>
-<li><a href="#computer-books">Computer Books</a></li>
-<li><a href="#video-tutorials">Video Tutorials</a></li>
-<li><a href="#online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li>
-<li><a href="#blogs-of-developers">Blogs of Developers</a></li>
-<li><a href="#for-improving-your-english">For improving your English</a></li>
+<li><a href="#what-should-a-programmer-know">Что должен знать программист</a></li>
+<li><a href="#competitive-programming">Конкурентное программирование</a></li>
+<li><a href="#computer-books">Книги по программированию</a></li>
+<li><a href="#video-tutorials">Видео-уроки</a></li>
+<li><a href="#online-compiler-and-sharing-code-snippets">Онлайн компилятор и платформа для публикации сниппетов</a></li>
+<li><a href="#blogs-of-developers">Блоги разработчиков</a></li>
+<li><a href="#for-improving-your-english">Ресурсы для совершенствования ваших навыков в английском языке</a></li>
 <li><a href="#when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
-<li><a href="#open-source-websites">Open Source Websites</a></li>
+<li><a href="#open-source-websites">Сайты с открытым исходным кодом</a></li>
 <li><a href="#internships">Internships</a></li>
-<li><a href="#jobs">Jobs</a></li>
+<li><a href="#jobs">Работа</a></li>
 </ul>
 
 ## When you get stuck
