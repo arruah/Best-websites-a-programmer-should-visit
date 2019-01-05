@@ -6,7 +6,7 @@
 
 [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
 
-# Best-websites-a-programmer-should-visit
+# Сборник-сайтов-для-программистов-которые-необходимо-посетить
 Сборник полезных ресурсов для программистов.
 
 Для тех кто изучает информатику есть несколько полезных сайтов, которые вы должны знать, чтобы всегда быть в курсе, чтобы еще лучше совершенствовать свои умения и узнавать что-то новое. Ниже вам представлен неполный список некоторых сайтов, которые вы должны посетить. Этот список будет мной обновляться, но вы также можете внести свой вклад, добавив те ресурсы котороые вы считаете нужным добавить в этот список :wink:
@@ -25,7 +25,7 @@
 <li><a href="#coding-style">Стили в программировании</a></li>
 <li><a href="#general-tools">Общие инструменты</a></li>
 <li><a href="#interview-preparation">Подоготовка к собеседованию</a></li>
-<li><a href="#documentaries">Документация</a></li>
+<li><a href="#documentaries">Документальная хроника</a></li>
 <li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
 <li><a href="#sites-related-to-your-preferred-programming-language-for-me-java">Сайты для обучения программированию конкретному языку программирования (Java в этом случае)</a></li>
 <li><a href="#learn-ai">Изучение Искусственного Интелекта</a></li>
@@ -47,214 +47,213 @@
 <li><a href="#for-improving-your-english">Ресурсы для совершенствования ваших навыков в английском языке</a></li>
 <li><a href="#when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
 <li><a href="#open-source-websites">Сайты с открытым исходным кодом</a></li>
-<li><a href="#internships">Internships</a></li>
+<li><a href="#internships">Стажировка</a></li>
 <li><a href="#jobs">Работа</a></li>
 </ul>
 
-## When you get stuck
-- [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
-- [devRant](https://www.devrant.io) : Community where you can rant and release your stress
-- [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
-- [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
-- [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
+## Если вы застряли
+- [Codementor](https://www.codementor.io) : Сообщество менторов, для того чтобы учиться у других разработчиков в режиме один ментор один ученик в режиме реального времени.
+- [devRant](https://www.devrant.io) : Сообщество, где вы можете разглагольствовать и снять стресс.
+- [Learn Anything](https://learn-anything.xyz) : Сообщество людей которые обсуждают методы обучения чему угодно.
+- [Quora](https://www.quora.com) : Место для обмена знаниями и лучшего понимания мира. Вы можете пригласить несколько экспертов в вашем вопросе на ваш выбор.
+- [Stack Overflow](https://stackoverflow.com) : Подпишитесь на их еженедельную рассылку на множество интересующих вас тем.
 
 
-## News
-- [ACM TechNews](http://technews.acm.org) : TechNews
-- [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
-- [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
-- [Ars Technica](https://arstechnica.com) : posts unique quality articles
-- [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
-- [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
-- [GSMArena.com](http://www.gsmarena.com) : news related to latest mobile phones and android.
-- [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
-- [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-- [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
-- [Hacker Noon](https://hackernoon.com) : How hackers start their afternoons.
-- [High Scalability](http://highscalability.com) : Success stories of various companies on their apps, infra scaling.
-- [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
-- [product hunt](https://www.producthunt.com) : Discover your next favorite thing
-- [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
-- [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
-- [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
-- [StackShare](https://stackshare.io) : See what tools are popular with developers and companies and read about their technology decisions
-- [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
-- [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
-- [The Verge](https://www.theverge.com) : More product oriented tech news
-- [XDA](https://www.xda-developers.com) : Android Developers News
-- [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
+## Новости
+- [ACM TechNews](http://technews.acm.org) : Новости индустрии.
+- [Stratechery](https://stratechery.com) : Технический блог Бена Томпсона.
+- [AlternativeTo](https://alternativeto.net) : Рекомендации по краудсорсингу.
+- [Ars Technica](https://arstechnica.com) : Журнал с качественным контентом.
+- [Better Dev Links](https://betterdev.link) : Интересные ссылки за неделю, которые помогут вам стать лучшим разработчиком.
+- [DevOpsLinks](http://devopslinks.com) : Интернет-сообщество из тысяч разработчиков и ИТ-специалистов, заинтересованных в DevOps.
+- [GSMArena.com](http://www.gsmarena.com) : Новостной журнал посвещенный мобильным андроид телефонам.
+- [Hacker News Digest](https://hndigest.com) : Новостная рассылка от журнала  Hacker News. Частоту и время рассылки вы можете подорбрать удобные для вас.
+- [Hacker News](https://news.ycombinator.com) : Аггрегатор интересных новостей от Ycombinator.
+- [Hacker Newsletter](http://www.hackernewsletter.com) : Еженедельная рассылка лучших статей о стартапах, технологиях, программировании и многом другом. Все ссылки курируются вручную из Hacker News.
+- [Hacker Noon](https://hackernoon.com) : Как хакеры начинают свой день.
+- [High Scalability](http://highscalability.com) : Истории успеха различных компаний как они масштабировали свои приложения.
+- [Lobsters](https://lobste.rs) : Лобстеры - это технологически ориентированное сообщество, сосредоточенное на агрегации ссылок и обсуждении.
+- [product hunt](https://www.producthunt.com) : Откройте для себя следующую любимое приложение. Рейтинг программ и приложений.
+- [Recode](https://www.recode.net) : Технические новости, которые фокусируются на бизнесе в Силиконовой долине.
+- [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Сабреддит с новостями и статьями о программировании в общем.
+- [Slashdot](https://slashdot.org) : Новости (Первоначально "Новости для ботаников. Вещи, которые имеют значение")
+- [StackShare](https://stackshare.io) : Посмотрите, какие инструменты пользуются популярностью у разработчиков и компаний, и прочитайте об их технологических решениях.
+- [TechCrunch](https://techcrunch.com) : Ресурс посвещенный обзору стартапови и новых интернет-продуктов. А также свежая информация о развитии индустрии.
+- [The DEV Community](https://dev.to) : Место где программисты делятся идеями и помогают друг другу расти.
+- [The Verge](https://www.theverge.com) : Еще больше новостей ориентированных на технические продукты.
+- [XDA](https://www.xda-developers.com) : Новости для разработчиков на Android.
+- [Hashnode](https://hashnode.com/) : Hashnode - это дружелюбное и инклюзивное сообщество для разработчиков программного обеспечения.
 
-## Magazines
-- [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
-- [Nautilus](http://nautil.us) : NewYorker for tech.
-- [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
+## Журналы
+- [MIT Technology Review](https://www.technologyreview.com/magazine/) : Обзор технических новостей от МИТ.
+- [Nautilus](http://nautil.us) : NewYorker для технарей. 
+- [LWN](https://lwn.net) : Еженедельные новости открытых технологий, программирования и т. д. (Первоначально Linux Weekly News).
 
 
-## Coding practice for beginners
-- [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
-- [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
-- [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
-- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
-- [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
-- [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
+## Практика для начинающих
+- [freeCodeCamp](https://www.freecodecamp.com) : Научиться программировать и создавать проекты для некоммерческих организаций. Создайте своё портфолио веб-разработки.
+- [Blackbird School](https://blackbird.school) : Научитесь кодировать онлайн с платформой для начинающих прогрммистов.
+- [Glitch](https://glitch.com/) : Отличное место, чтобы поиграть с кодом в простой и понятной онлайн среде разрабоки.
+- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : интересные задачи программирования, где вы можете учиться, глядя на чужой код, даже если вы не в состоянии решить код. Вы можете посмотреть как решены задачи другими разработчиками.
+- [Programming by Doing](http://programmingbydoing.com) : Очень хороший сайт для тех, кто хочет начать с самых основ.
+- [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Лучшее место где можно начать с самых простых задач и постепенно увеличивать сложность с каждой задачей.
 - [Exercism.io](http://exercism.io) : download and solve practice problems in over 30 different languages, and share your solution with others.
-- [InterviewBit | Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
-- [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
-- [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
-- [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
-- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
-- [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
-- [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
-- [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
-- [gitignore](https://www.gitignore.io/) : A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
-- [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
-- [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
-- [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
+- [InterviewBit | Coding Interview Questions](https://www.interviewbit.com) : Ресурс созданный для того чтобы помогать претендентам в прохождении интервью при приёме на работу с элементами геймификации.
+- [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Решения большинства проблем по ссылке.
+- [Lod - Cloud](http://lod-cloud.net) : Ресурс с данными различной тематики в схемах Open Data.
+- [Cave of programming](https://caveofprogramming.com) : Учитесь программировать, повышайте свои навыки.
+- [Vim adventures](https://vim-adventures.com/) : Учите VIM играючи.
+- [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : Проект Розетта - хрестоматия для программистов. Сборник задач по программированию и решений к ним.
+- [Pramp](https://www.pramp.com) : Теперь ваша очередь быть интервьюером. Обучитесь искусству приёма на работу специалистов в различных направлениях связанных с разработкой ПО.
+- [Paqmind](http://paqmind.com) : Руководства и задачи для изучения программирования. Учитесь на практике: уникальные и беглые учебники в коан стиле. Отсутствие песочницы: пишите код в своей IDE и запускайте его локально на своей машине. Все упражнения создаются и решаются опытными инженерами. Разнообразие упражнений: тесты, задачи, рефакторинг и т.д.
+- [gitignore](https://www.gitignore.io/) : Создавайте полезные .gitignore файлы для вашего проекта. Можете выбрать из 442 шаблонов для различных сред, языков программирования и операционных систем.
+- [Codeacademy](https://www.codecademy.com) : Учитесь программировать, получайти новые навыки и ищите новую работу бесплатно.
+- [treehouse](https://teamtreehouse.com) : Быстрый, простой и доступный способ развития навыков.
+- [GeeksforGeeks](https://practice.geeksforgeeks.org) : Учитесь программированию онлайн. Платные и бесплатные курсы.
 
 
-## CryptoCurrency
-- [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
-- [Coin demo](https://coindemo.io/) : CryptoCurrency demo
-- [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
-- [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
-- [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
-- [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
+## Криптовалюты
+- [Blockchain demo](https://blockchaindemo.io/) : Визуальная демонстрация работы Блокчейн технологии.
+- [Coin demo](https://coindemo.io/) : Визуальный демонстрация работы монеты в цепи блокчейн.
+- [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Большой сборник полезных ресурсов по Биткоин тематике.
+- [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Отличное введение в блокчейн технологию.
+- [GitCoin](https://gitcoin.co) : Gitcoin - это способ монетизировать или стимулировать работу с открытым исходным кодом.
+- [Lite Paper](https://litepaper.com/) : Криптовалюты и блокчейн без усилий.
 
 
 ## For those who want to start a small project but can't find the ideas
-- [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
-- [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
-- [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
-- [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
-- [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
-- [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
-- [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
+- [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 забавных идей, которые вы можете реализовать  во время обучения React.
+- [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : Ресурс может предложить около 125 идей проектов от начального до среднего уровня.
+- [karan/Projects](https://github.com/karan/Projects) : Список практических проектов, которые каждый может решить на любом языке программирования.
+- [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : Статья поможем вам выбрать направление с которого вам стоить начать изучение програмиирования.
+- [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Еще один огромный список с полезными проектами. Около 1000 проектов!
+- [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : Сабреддит где делятся идеями для приложений.
+- [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : Место для идей от тех людей кто ленится реализовать. :)
 
 
-## General Coding advice
-- [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev!
-- [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
-- [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
-- [Develop for Performance](http://developforperformance.com) : High-performance computing techniques for software architects and developers
-- [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : How to become a programmer, or the art of Googling well
-- [How to escape tutorial purgatory as a new developer — or at any time in your career](https://medium.freecodecamp.org/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40) : How to escape tutorial purgatory
-- [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : A set of best practices for JavaScript projects.
-- [Learn to Code With Me](https://learntocodewith.me) : A comprehensive site resource by Laurence Bradford for developers who aims to build a career in the tech world
-- [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : The Codist Header Lessons From A Lifetime Of Being A Programmer  
-- [Programming Principles](https://webpro.github.io/programming-principles/) : Categorized overview of Programming Principles & Patterns
-- [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
-- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) : What I’ve learned from teaching others
-- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming
-- [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/) : Henrik Warne's blog
-- [The Open Web Application Security Project (OWASP)](https://www.owasp.org) : OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.
+## Общие советы по программированию
+- [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : 10 заповедей для хорошего проаммиста!
+- [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Блог Кевина Лондон.
+- [Design Patterns](https://sourcemaking.com/design_patterns) : Шаблоны проектирования c подробными объяснениями и примерами.
+- [Develop for Performance](http://developforperformance.com) : Высокопроизводительные вычислительные технологии для архитекторов и разработчиков программного обеспечения.
+- [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : Как стать программистом или искусство гуглить. Старая но до сих пор актуальная статья.
+- [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : Набор рекомендаций для JavaScript проектов.
+- [Learn to Code With Me](https://learntocodewith.me) : Ресурс Лоуренса Брэдфорда для разработчиков, которые стремятся построить карьеру в мире информационных технологий.
+- [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : Заметки программиста. 
+- [Programming Principles](https://webpro.github.io/programming-principles/) : Категоризированный обзор принципов и шаблонов программирования.
+- [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : Полная коллекция шаблонов дизайна программирования.
+- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) : Чему я научился обучая других. 
+- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : Принципы хорошего программирования.
+- [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/) : Блог Хенрика Уорна.
+- [The Open Web Application Security Project (OWASP)](https://www.owasp.org) : OWASP - это открытое сообщество, которое позволяет организациям разрабатывать, приобретать, эксплуатировать и обслуживать приложения, которым можно доверять.
 
 
-## Coding Style
-- [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
-- [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A ruby style guide by Airbnb
-- [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
-- [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
-- [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
-- [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : Check out how to debug your program
-- [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : Another online CS courses
-- [Directory of Online CS Courses](https://github.com/ossu/computer-science) : Free online CS courses
-- [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : C programming habits to adopt
-- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't how? Check out this post
-- [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get start
-- [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) : Style Guide for Python Code
-- [Standard JS Style Guide](https://standardjs.com) : JavaScript style guide, with linter & automatic code fixer
-- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) : Google Python Style Guide
-- [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) : An Aurelia style guide by Behzad Abbasi(Behzad888)
+## Стиль в программировании
+- [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : Разумный подход к JavaScript
+- [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : Советы по стилю программирования в Ruby от Airbnb.
+- [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : Еще одно пособие по стилю в Ruby.
+- [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Советы по стилю программирования в AngularJS от Pappa John.
+- [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : Пособие для тех кто хочет избежать спагетти кода.
+- [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : Статья об отладке от программистов из Мичиганского университа.
+- [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : Еще один большой список с курсами по программированию.
+- [Directory of Online CS Courses](https://github.com/ossu/computer-science) : Курс по программированию. Путь к бесплатному самообразованию в области информатики.
+- [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : Популярный сабреддит для Си программистов.
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) : Руководство По Стилю C++ от Google.
+- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Хотите правильно и грамотно сообщать об ошибках, но не знаете как? Посмотрите эту полезную статью.
+- [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Научитесь избегать вредных привычек при программировании.
+- [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) : Официальное руководство по стилю для Python программистов.
+- [Standard JS Style Guide](https://standardjs.com) : Руководство по стилю JavaScript, с линтером и автоматическим исправлением кода.
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) : Руководство по стилю Python от Google.
+- [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) : Общее руководство по стилю от команды Aurelia.
 
 
-## General Tools
-- [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
-- [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
-- [CodeSandbox](https://codesandbox.io) : Online code editor with a focus on creating and sharing web application projects.
-- [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
-- [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
-- [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
-- [Wit AI](https://wit.ai) : Natural Language for Developers
-- [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
-- [Code share](https://codeshare.io) : Share code in real-time with other developers
-- [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
-- [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
-- [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
-- [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
-- [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
-- [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
+## Общие инструменты 
+- [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Облачный инструмент для проведения онлайн интервью с претендентами.
+- [CodePen](https://codepen.io) : Онлайн среда разработки для фронтенд разработчиков.
+- [CodeSandbox](https://codesandbox.io) : Онлайн редактор кода для React разработчиков.
+- [Devicons](http://vorillaz.github.io/devicons/#/main) : Более 100 иконок, готовых к использованию в вашем проекте от команды Devicons.
+- [regex101](https://regex101.com) : Онлайн тестер и отладчик регулярных выражений: PHP, PCRE, Python, Golang и JavaScript.
+- [regexr](https://regexr.com) : Еще один онлайн-инструмент для изучения, построения и тестирования регулярных выражений.
+- [Wit AI](https://wit.ai) : Естественный язык для разработчиков.
+- [Seymour](https://harc.github.io/seymour-live2017) : Живое программирование.
+- [Code share](https://codeshare.io) : Делитесь кодом в режиме реального времени с другими заинтересованными разработчиками.
+- [Solid Tools for Developers](https://soliddevtools.com) : Онлайновые средства отладки для разработчиков и системных администраторов.
+- [OS Query](https://osquery.io) : Вопросы и ответы об инфраструктуре Linux, Windows и macOS.
+- [LaunchPad](https://launchpad.graphql.com) : Панель запуска Appollo для тестирования запросов GraphQl.
+- [IDE Onlang](https://ide.onelang.io) : Пишите на одном языке и получите тот же результат на других языках.
+- [PullRequest](https://www.pullrequest.com/) : Сервис проверки кода (Code Review) который осуществляют профессиональные программисты.
+- [Extends Class](https://extendsclass.com/) :  Онлайн-инструменты разработчика: REST и SOAP-клиентов, SQLitebrowser, инструменты для тестирования (Regex, XPath, JSONPath).
 
 
-## Bash and Shell scripting  
-- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
-- [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) : Bash Guide for Beginners Machtelt Garrels
-- [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) : by Mike G mikkey at dynamo.com.ar
-- [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html) : Bash Reference Manual
-- [BashGuide](http://mywiki.wooledge.org/BashGuide) : BashGuide - Greg's Wiki
-- [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : Unix and Linux Commands for Developers
-- [Airbon OS](https://www.airbornos.com) :  Private Google Docs Alternative
+## Bash и Shell скрипты
+- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : Фундаментальный обзор по искусству программирования сценариев Bash.
+- [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) : Руководство Bash для начинающих от Machtelt Garrels. Статья от 2008 года. 
+- [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) : Введегте в программирование BASH от Mike G mikkey. Статья от 2000 года.
+- [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html) : Справочное Руководство Bash. Много текста.
+- [BashGuide](http://mywiki.wooledge.org/BashGuide) : Вики портал по Bash.
+- [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : Онлайн книга. "Покорение командной строки" от автора Марка Бейтса. Команды Unix и Linux для разработчиков.
+- [Airbon OS](https://www.airborn.io/) : Альтернатива облачным документам от Google.
 
-## Interview Preparation
-- [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/) : Here's a pretty big list of programming interview questions I compiled while studying for big 4 interviews. I think you guys will find it useful!
-- [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
-- [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk)
-- [Algorithm design canvas](https://www.hiredintech.com/algorithm-design))
-- [Aptitude Questions and Answers](http://www.indiabix.com) : Quant and aptitude preparation
-- [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org) : whatever the heck those are) and other things that make you think!
-- [BeehYve](https://www.beehyve.io) : Student crowdsourced resources for any topic
-- [Big collection of interview preparation links • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/)
-- [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#)
-- [BIG O Misconceptions](http://ssp.impulsetrain.com/big-o.html)
-- [Bitwise tricks](https://gist.github.com/dideler/2365607)
-- [ChiperSoft/InterviewThis](https://github.com/Twipped/InterviewThis) : questions to ask during on a interview to know more about the company.
-- [Code Project](https://www.codeproject.com) : For those who code!
-- [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/)
-- [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
-- [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/)
-- [Delightful Puzzles](http://gurmeet.net/puzzles/)
-- [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : really good stackoverflow question that covers basics of calculating runtime complexity.
-- [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
-- [Freshers Interviews](http://placementsindia.blogspot.com)
-- [Gainlo](http://www.gainlo.co/#!/) : Mock interview from professionals 
-- [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : also subscribe to their feeds to get links to their new articles.
-- [github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
-- [Give your résumé a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
-- [Here's How to Prepare for Tech Interviews • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
-- [How to Answer "Tell Me a Little About Yourself" | The Art of Manliness](http://www.artofmanliness.com/2016/01/05/tell-me-a-little-about-yourself/)
-- [How to Answer the Toughest 40 Job Interview Questions | ICS Job Portal](http://www.icsjobportal.com/blog/job-interview-questions)
-- [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews)
-- [How to interview](http://kelukelu.me/interview/index.html)
-- [How to prepare for an interview - 1](http://se7so.blogspot.com/2014/01/how-to-prepare-for-interview-1.html)
+## Помощь в подготовке к интервью
+- [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/) : Автор статьи делится большим список вопросов для интервью по программированию, которые он собрал во время интервью в крупных компаниях. 
+- [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html) : 10 Часто задаваемые вопросы на интервью по SQL запросам.
+- [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk) : Коллекция логических загадок с ответами.
+- [Algorithm design canvas](https://www.hiredintech.com/algorithm-design)) Онлайн курс посвещенный организации и проведения интервью.
+- [Aptitude Questions and Answers](http://www.indiabix.com) : Здесь вы можете подсмотреть вопросы ответы для вашего интервью и подготовки к вступительным экзаменам.
+- [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org) : Битая ссылка ведёт на https://www.deadprogrammer.com/
+- [BeehYve](https://www.beehyve.io) : Краудсорсинг ресурсы для студентов на различные теме.
+- [Big collection of interview preparation links • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/) : Большая коллекция ссылок для подготовки к интервью.
+- [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#) : Шпаргалка с алгоритмами с "О" большим.
+- [BIG O Misconceptions](http://ssp.impulsetrain.com/big-o.html) : Заблуждения о большом "О".
+- [Bitwise tricks](https://gist.github.com/dideler/2365607) : Хитрые трюки для ускорения целочисленных вычислений.
+- [ChiperSoft/InterviewThis](https://github.com/Twipped/InterviewThis) : Какие вопросы нужно задавать во время интервью, чтобы узнать больше о компании.
+- [Code Project](https://www.codeproject.com) : Портал для програмистов.
+- [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/) : Основные вопросы при прохождении интервью на позицию Java программиста.
+- [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php) : Некоторые задачки на языке Си, которые возможно, помогут вам при интервью. 
+- [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/) : Решение проблем для технического интервью. Курс обучения от Стэнфордского университета.
+- [Delightful Puzzles](http://gurmeet.net/puzzles/) : Сборник логических задач.
+- [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : Очень хороший вопрос на Stackoverflow, который охватывает основы расчета сложности вычисления.
+- [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) : 5 часто задаваемых вопросов при проведении технических интревью. Как себя вести когда интерьвю проходит по видеосвязи.
+- [Freshers Interviews](http://placementsindia.blogspot.com) : Технические и HR интервью вопросы Google, Microsoft, Yahoo и многих других компаний.
+- [Gainlo](http://www.gainlo.co/#!/) : Макет интервью от профессионалов.
+- [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : Портал для гиков.
+- [github.com/odino/interviews](https://github.com/odino/interviews) : Список важных вопросов для интервью.
+- [Give your résumé a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/) : Сделайте ваше резюме красивым.
+- [Here's How to Prepare for Tech Interviews • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/) : Сабреддит на тему подготовки к техническому интервью.
+- [How to Answer "Tell Me a Little About Yourself" | The Art of Manliness](http://www.artofmanliness.com/2016/01/05/tell-me-a-little-about-yourself/) : Статья о том как отвечать на некоторые вопросы. А так же как не следует на них отвечать. 
+- [How to Answer the Toughest 40 Job Interview Questions | ICS Job Portal](http://www.icsjobportal.com/blog/job-interview-questions) Битая ссылка.
+- [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews) : Руководство по поиску работы и технологическим интервью.
+- [How to interview](http://kelukelu.me/interview/index.html) : Очередное руководство по проведению интервью.
+- [How to prepare for an interview - 1](http://se7so.blogspot.com/2014/01/how-to-prepare-for-interview-1.html) : Автор делится опытом прохождения технического интверью на C++.
 - [IIT Delhi Placement Experience](http://placement-iit2013.blogspot.com)
-- [samwincott/Internship-Guide](https://github.com/samwincott/Internship-Guide) : An aggregrate of links related to internships.
-- [Interviewing At Jane Street](https://blog.janestreet.com/interviewing-at-jane-street/) : Interviewing At Jane Street
-- [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
-- [Job Interview: How to Ace a Job Interview | The Art of Manliness](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
-- [Job interviews News, Videos, Reviews and Gossip - Lifehacker](https://lifehacker.com/tag/job-interviews)
-- [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204)
-- [kimberli/interviews](https://github.com/kimberli/interviews) : study sheet for Interview
-- [LeetCode](https://leetcode.com/) : A new way to learn.here you can prepare for your interview.
-- [Mission-peace/interview problems](https://github.com/mission-peace/interview/wiki) : A large collection of coding interview problems
-- [Pramp | A free on demand interview practice platform for Software Engineers](https://www.pramp.com/ref/gt1) : Practice coding interviews with real peers
-- [Problems | LeetCode OJ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
-- [Programmer And Software Interview Questions Answers](http://www.programmerinterview.com)
-- [Reddit.com/user/ashish2199/m/puzzles](https://www.reddit.com/user/ashish2199/m/puzzles/) : Logic Puzzles
-- [SQL interview questions](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) : great SQL test
-- [SQL Joins explained using venn diagram](http://stevestedman.com/wp-content/uploads/VennDiagram1.pdf)
-- [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) : Java interview questions
-- [The 25 most difficult HR questions](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
-- [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/) : Algorithms for Coding Interview
-- [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
-- [Unsolicited_advice_for_job_seekers_and_employers](https://www.reddit.com/r/india/comments/1clgdj/unsolicited_advice_for_job_seekers_and_employers/)
-- [Visualising Data Structures and Algorithms through Animation](https://visualgo.net/en)
-- [We Help Coders Get Hired](https://www.hiredintech.com/app) : website offering courses on system design, interview strategies, soft skills etc
+- [samwincott/Internship-Guide](https://github.com/samwincott/Internship-Guide) : Руководство по прохождению стажировки.
+- [Interviewing At Jane Street](https://blog.janestreet.com/interviewing-at-jane-street/) : Подробная статья о технике проведения интервью.
+- [Interview Archives - Java Honk](http://javahonk.com/category/interview/) : Подборка задач для интервью на Java.
+- [Job Interview: How to Ace a Job Interview | The Art of Manliness](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/) : Большая статья о том, как подготовиться к собеседованию.
+- [Job interviews News, Videos, Reviews and Gossip - Lifehacker](https://lifehacker.com/tag/job-interviews) : Подоборка статей о собеседованиях от журнала LifeHacher.
+- [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204) : Как отвечать на наиболее часто задаваемые вопросы на интервью.
+- [kimberli/interviews](https://github.com/kimberli/interviews) : Шпаргалка для того чтобы освежить память при подготовке к интервью.
+- [LeetCode](https://leetcode.com/) : LeetCode платформа которая поможет вам повысить свои навыки, расширить свои знания и подготовиться к техническим интервью.
+- [Mission-peace/interview problems](https://github.com/mission-peace/interview/wiki) : Большая коллекция задач для технических интервью.
+- [Pramp | A free on demand interview practice platform for Software Engineers](https://www.pramp.com/ref/gt1) : Ссылка уже была. Кандидат на удаление.
+- [Problems | LeetCode OJ](https://leetcode.com/problemset/algorithms/) : Практика кодирования для интервью. Повторяющася ссылка. Кандидат на удаление.
+- [Programmer And Software Interview Questions Answers](http://www.programmerinterview.com) : Цель этого сайта помочь программистам успешно подготовиться к техническому интервью.
+- [Reddit.com/user/ashish2199/m/puzzles](https://www.reddit.com/user/ashish2199/m/puzzles/) : Сабреддит с логическими задачами.
+- [SQL interview questions](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) : Задача на знание SQL.
+- [SQL Joins explained using venn diagram](http://stevestedman.com/wp-content/uploads/VennDiagram1.pdf) Диграмма с типами JOIN в SQL от Стива Стедмана.
+- [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) : Коллекция вопросов для собеседования по Java и ответы на них.
+- [The 25 most difficult HR questions](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html) : 25 самых сложных вопросов не технического характера, которые вам зададут на собеседовании. Статья 1983 года.
+- [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/) : Топ 10 вопросов по алгоритмам на технических интервью. Решения предствлены на Java.
+- [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/) : Unix / Linux Шпаргалка. 
+- [Unsolicited_advice_for_job_seekers_and_employers](https://www.reddit.com/r/india/comments/1clgdj/unsolicited_advice_for_job_seekers_and_employers/) : Сабреддит с сомнительными советами для соискателей и работодателей.
+- [Visualising Data Structures and Algorithms through Animation](https://visualgo.net/en) : Визуализация структур данных и алгоритмов с помощью анимации.
+- [We Help Coders Get Hired](https://www.hiredintech.com/app) : Курсы по системному дизайну, стратегиям интервью, навыкам в программировании и т.д
 - [what_are_your_goto_questions_for_the_do_you_have?](https://www.reddit.com/r/cscareerquestions/comments/209rkq/what_are_your_goto_questions_for_the_do_you_have/)
 - [Why You Make Less Money • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
-- [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
+- [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : Логические задачи от Университета Беркли.
 
 
-## Documentaries
+## Документальная хроника
 - [Ask Me Anything](https://www.youtube.com/watch?v=1fqxMuPmGak) : Gayle Laakmann McDowell (author of Cracking the Coding Interview)
 - [Breaking the Code](https://www.youtube.com/watch?v=S23yie-779k) : Biography of Alan Turing
 - [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : Cracking the Code Interview
@@ -336,7 +335,7 @@
 - [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
 
 
-## Seminar , research writing , talks etc
+## Seminar, research writing, talks etc
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html) : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).
 - [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html) : articles and views
 - [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html) : Everyone must read this tiny book before writing the seminar report
