@@ -254,73 +254,73 @@
 
 
 ## Документальная хроника
-- [Ask Me Anything](https://www.youtube.com/watch?v=1fqxMuPmGak) : Gayle Laakmann McDowell (author of Cracking the Coding Interview)
-- [Breaking the Code](https://www.youtube.com/watch?v=S23yie-779k) : Biography of Alan Turing
-- [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : Cracking the Code Interview
-- [Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo) : Cracking the Coding Interview, Fullstack Speaker Series
-- [Download: The True Story of the Internet](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) : Play-list of discovery channel documentary on browser wars, dot com bubble and more.
-- [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4) : Asymptotic Notation explained by Harvard
-- [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) : Take a look at how a CPU executes programs
-- [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) : Code instructions
-- Machine that Changed the World - a very good documentary about history of computers
-  - Part 1 is unavailable for free streaming due to widespread copyright claims.
-  - [Part 2: Inventing the Future](https://www.youtube.com/watch?v=0iPiYxjsYKk)
+- [Ask Me Anything](https://www.youtube.com/watch?v=1fqxMuPmGak) : Битая ссылка. 
+- [Breaking the Code](https://www.youtube.com/watch?v=S23yie-779k) : Битая ссылка.
+- [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : Этот видеодоклад научит вас как подготовиться к техническому интервью, что на самом деле ищут ведущие компании, такие как Google, Amazon и Microsoft, и как решать сложные проблемы программирования и алгоритмов.
+- [Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo) : Спикер Гейл Макдауэлл рассказывает как проходят интервью для программистов в Академии Fullstack.
+- [Download: The True Story of the Internet](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) : Плейлист канала Дискавери документальный фильм о войнах браузеров, пузырь доткомов и многое другое.
+- [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4) : Асимптотическая нотация, объясненяет специалист Гарвардского университета.
+- [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) : Битая ссылка.
+- [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) : Видео о структуре типовых инструкций машинного кода.
+- Устройство которое изменила мир - очень хороший документальный фильм об истории компьютеров.
+  - Часть 1 недоступна для свободного просмотра в связи с нарушением авторских прав.
+  - [Part 2: Inventing the Future](https://www.youtube.com/watch?v=0iPiYxjsYKk) : Изобретая будущее.
   - [Part 3: The Paperback Computer](https://www.youtube.com/watch?v=d7DKVfOXr54)
-  - [Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k)
-  - [Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo)
-- [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
-- [Project Code Rush](https://www.youtube.com/watch?v=a-49a_CjH0M) : The Beginnings of Netscape / Mozilla Documentary
-- [Revolution OS Linux Documentary](https://www.youtube.com/watch?v=4vW62KqKJ5A) : a film that traces the history of GNU, Linux, open source, and the free software movement.
-- [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
-- [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
-- [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
+  - [Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k) : Думающие машины.
+  - [Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo) : Возникновение Интернета. Мир у вас под рукой.
+- [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : Учебный фильм 1953 года для механического компьютера управления огнем на борту кораблей ВМС США. Удивительно, как изящно решались задачи математических вычислений в "постоянной" механической форме, прежде чем микропроцессоры стали использоваться повсеместно.
+- [Project Code Rush](https://www.youtube.com/watch?v=a-49a_CjH0M) : Документальный фильм о браузере Netscape / Mozilla.
+- [Revolution OS Linux Documentary](https://www.youtube.com/watch?v=4vW62KqKJ5A) : Революционная Операционная Система фильм, который прослеживает историю GNU, Linux, Open source и движения За свободные программное обеспечение.
+- [Teach Yourself Computer Science](https://teachyourselfcs.com) : На ресурсе перечислен список книг по программированию для самообучения.
+- [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Документальный фильм о возникновении ОС Linux.
+- [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Триумф ботанов.
 
 
 ## MOOCs for learning something new
-- [Class Central](https://www.class-central.com) : a directory of 100,000+ student reviews of thousands of MOOCs.
-- [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
-- [Coursera.org](https://www.coursera.org) : Take the world's best courses, online.
-- [CS50](https://www.youtube.com/user/cs50tv/videos) : A set of goods tutorials from cs50
-- [edX](https://www.edx.org) : Free Online Courses, Advance Your Career, Improve Your Life.
-- [Kadenze | Creative Programming](https://www.kadenze.com/courses?subjects%5B%5D=7) : Programming courses focused on art and creativity
-- [MIT OCW Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
-- [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
-- [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
-- [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
+- [Class Central](https://www.class-central.com) : Онлайн курсы от университетов с отзывами студентов.
+- [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : Список онлайн курсов для самообучения.
+- [Coursera.org](https://www.coursera.org) : Один из лучших в мире порталов с онлайн курсами.
+- [CS50](https://www.youtube.com/user/cs50tv/videos) : CS50 - Обучающие видео от Гарвардского университета посвещенные информатике и искусству программирования.
+- [edX](https://www.edx.org) : Бесплатные онлайн курсы.
+- [Kadenze | Creative Programming](https://www.kadenze.com/courses?subjects%5B%5D=7) : Курсы программирования, ориентированные на искусство и творчество.
+- [MIT OCW Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/) : Электротехника и информатика. Бесплатный курс от MIT.
+- [MOOC.fi](http://mooc.fi/english.html) : Бесплатные онлайн курсы от Университета Хельсинки. Всего четыре курса на данный момент.
+- [NPTEL](http://nptel.ac.in) : Бесплатный онлайн курсы от IIT с сертификатами.
+- [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : Большой список с бесплатными техническими курсами. Список свежий и активно пополняется.
 
 
-## Sites related to your preferred programming language (For me Java)
-- [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Get basics of Java
-- [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
-- [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
-- [C++11 - the new ISO C++ standard](http://www.stroustrup.com/C++11FAQ.html) : The C++11 FAQ
-- [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff) : A set of videos on how the GC works
-- [Deep Dive Java](https://www.infoq.com/presentations/garbage-collection-benefits) : Garbage Collection is Good!
-- [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners](http://www.artima.com/insidejvm/ed2/index.html) : Java Corner
-- [How Garbage Collection Works](https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/) : Java memory management
-- [Implementation of Algorithms and Data Structures, Interview Questions and Answers](https://github.com/sherxon/AlgoDS)
-- [IntelliJ Keyboard Shortcuts](https://www.jetbrains.com/help/idea/keyboard-shortcuts-you-cannot-miss.html) : Keyboard shortcuts to enhance your productivity when working in IntelliJ.
-- [Java Corner at Artima.com](http://www.artima.com/java/index.html) : Java Corner at Artima.com
-- [Java Lecture Notes](http://www.cafeaulait.org/course/) : Java Student's Resource
-- [Java Off Heap](http://www.javaoffheap.com) : Java Off the Heap house
-- [Java Revisited](http://javarevisited.blogspot.com) : good for learning about Java Language and interview preparation.
-- [Java-source](http://www.java-source.net) : Java source
-- [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references, values of variables, etc
-- [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
-- [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
-- [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
-- [Search Open Source Java API](http://www.docjar.com) : view source of java library and learn how things are implemented.
-- [The C++ Programming Language](http://www.stroustrup.com/C++.html) : The C++ Programming Language.
-- [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/): The Java Memory Model
-- [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/) : The best tutorials for Java.
-- [Understanding JVM Internals](http://www.cubrid.org/blog/understanding-jvm-internals) : Understanding JVM Internals
-- [what-is-garbage-collection](https://plumbr.eu/handbook/what-is-garbage-collection) : Demystify the garbage collection
-- [JavaWorld](https://www.javaworld.com) : Welcome to Javaworld
-- [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
-- [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
+## Ресурсы посвещенные изучению Java
+- [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Лучшие книги для изучения Java: обязательно к прочтению.
+- [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : FAQ по C++.
+- [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : Еще один FAQ по C++.
+- [C++11 - the new ISO C++ standard](http://www.stroustrup.com/C++11FAQ.html) : FAQ по C++11.
+- [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff) : Битая ссылка.
+- [Deep Dive Java](https://www.infoq.com/presentations/garbage-collection-benefits) : Ева Андреассон рассказывает о сборщике мусора.
+- [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners](http://www.artima.com/insidejvm/ed2/index.html) : Внутри виртуальной машины Java. Книга Билла Веннерса.
+- [How Garbage Collection Works](https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/) : Короткая статья о том как работать с памятью в Java. 
+- [Implementation of Algorithms and Data Structures, Interview Questions and Answers](https://github.com/sherxon/AlgoDS) : Реализация алгоритмов и структур данных, проблемы и решения в Java.
+- [IntelliJ Keyboard Shortcuts](https://www.jetbrains.com/help/idea/keyboard-shortcuts-you-cannot-miss.html) : Пособие по работе с горячимм клавишами в IntelliJ от JetBrains.
+- [Java Corner at Artima.com](http://www.artima.com/java/index.html) : Уголок Java на Artima.com. Книги, статьи и семинары.
+- [Java Lecture Notes](http://www.cafeaulait.org/course/) : Материалы по обучению Java для обучающихся. Материалы взяты из курса обучения Политехнического института при Нью-Йоркском университете.
+- [Java Off Heap](http://www.javaoffheap.com) : Подскаст посвещенный Java.
+- [Java Revisited](http://javarevisited.blogspot.com) : Блог о Java, программировании, Spring, Hibernate, вопросы для интервью, книги и рекомендации онлайн-курса от Udemy, Pluarlsight и т.д
+- [Java-source](http://www.java-source.net) : Справочники и мануалы по Java.
+- [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : Визуализация ваших сниппетов в Java.
+- [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com) : Сайт с заметками о Java, Java EE, Android и вебпрограммировании.
+- [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : Бесплатный онлайн учебник по изучению Java.
+- [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Основные сочетания клавиш в среде NetBeans 8.0 и шаблоны. Шпаргалка.
+- [Search Open Source Java API](http://www.docjar.com) : Исходный код некоторых библиотек Java.
+- [The C++ Programming Language](http://www.stroustrup.com/C++.html) : Учебник по программированию на C++. Необходимо перенести в другой раздел.
+- [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/): Как работать с памятью в Java.
+- [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/) : Лучшие руководства по Java.
+- [Understanding JVM Internals](http://www.cubrid.org/blog/understanding-jvm-internals) : Понимание как работает JVM. Объемная статья.
+- [what-is-garbage-collection](https://plumbr.eu/handbook/what-is-garbage-collection) : Демистификация сборшика мусора в Java.
+- [JavaWorld](https://www.javaworld.com) : Добро пожаловать в мир Java! Сайт полностью о Java.
+- [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : Большая коллекция вопросов для собеседования на Java.
+- [JavatPoint](https://www.javatpoint.com/java-tutorial) : Уебник по программированию Java для начинающих.
 
 
-## Learn AI
+## Работаем с Искусственным Интеллектом
 - [aima](http://aima.cs.berkeley.edu) : The leading textbook in Artificial Intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
 - [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
 - [grakn.ai](https://grakn.ai) : The Database for AI
